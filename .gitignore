@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pdb
+*.lib
+*.exe
+.pytest_cache/
+.coverage
+build/
+dist/
+*.egg-info/
+tmp/
+

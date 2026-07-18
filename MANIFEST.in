@@ -1,0 +1,7 @@
+include CMakeLists.txt
+recursive-include include *.hpp
+recursive-include src/cpp *.cpp
+include src/python_bindings.cpp
+recursive-include tests *.cpp
+recursive-include benchmarks *.cpp
+
